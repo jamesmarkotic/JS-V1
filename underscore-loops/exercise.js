@@ -1,6 +1,6 @@
 // 1
 const pets = ['cat', 'dog', 'bird'];
-_.each([1, 2, 3], function (pets) {
+_.each(pets, function (pets) {
     console.log(pets);
 });
 
